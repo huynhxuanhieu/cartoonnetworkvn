@@ -1,0 +1,11 @@
+<list>
+  <show  group_name="1" show_name="The PowerPuff Girls" short_name="ppg" show_img="" minisite_icon="ppg.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/ppg/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="2" show_name="PowerPuff Girls Z" short_name="ppgz" show_img="" minisite_icon="ppgz.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/ppgz/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="3" show_name="Ben 10" short_name="ben10" show_img="" minisite_icon="ben10.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/ben10/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="4" show_name="Ben 10 Alien Force" short_name="ben10_alien_force" show_img="" minisite_icon="ben10_alien_force.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/ben10_alien_force/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="5" show_name="Chowder" short_name="chowder" show_img="" minisite_icon="chowder.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/chowder/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="6" show_name="Dexter's Laboratory" short_name="dexter" show_img="" minisite_icon="dexter.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/dexter/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="7" show_name="Courage the Cowardly Dog" short_name="courage" show_img="" minisite_icon="courage.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/courage/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="8" show_name="Samurai Jack" short_name="samurai_jack" show_img="" minisite_icon="samurai_jack.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/samurai_jack/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="9" show_name="The Secret Saturdays" short_name="the_secret_saturdays" show_img="" minisite_icon="secret_saturday.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/the_secret_saturdays/index.html" link="yes" keyword="" active="yes" />
+</list>
