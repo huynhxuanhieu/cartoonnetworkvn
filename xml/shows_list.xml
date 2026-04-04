@@ -16,5 +16,5 @@
   <show  group_name="15" show_name="Cartoon Network Movies" short_name="" show_img="" minisite_icon="cn_movies.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="tv/cn_movies/index.html" link="yes" keyword="" active="yes" />
   <show  group_name="16" show_name="Squirrel Boy" short_name="squirrel_boy" show_img="" minisite_icon="squirrel_boy.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/squirrel_boy/index.html" link="yes" keyword="" active="yes" />
   <show  group_name="17" show_name="The Life &amp; Times of Juniper Lee" short_name="juniper_lee" show_img="" minisite_icon="juniper_lee.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/juniper_lee/index.html" link="yes" keyword="" active="yes" />
-  <show  group_name="18" show_name="" short_name="" show_img="" minisite_icon=".jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="/index.html" link="yes" keyword="" active="yes" />
+  <show  group_name="18" show_name="Generator Rex" short_name="generator_rex" show_img="" minisite_icon="generator_rex.jpg" minisite_icon_flag="" schedule_code="" allshows="yes" minisite="yes" url="minisite/generator_rex/index.html" link="yes" keyword="" active="yes" />
 </list>
