@@ -1,0 +1,361 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background: url('https://web.archive.org/web/20130402232952im_/http://img0.cartoonnetworkasia.com/default_toonix/en/images/home_bg02.jpg') no-repeat top;
+}
+
+td {
+	text-align:left;
+}
+
+object { outline:none; }
+.clear{clear:both;}
+
+ul,ol{list-style:none;margin-top:0;margin-bottom:0px;}
+
+a:link{color:#333333;text-decoration:none;}
+a:visited{color:#333333;text-decoration:none;}
+a:hover {color:#666666;}
+a:active {color:#666666;}
+
+.helplink:link{color:#0000FF;text-decoration:underline;}
+.helplink:visited{color:#0000FF;text-decoration:underline;}
+.helplink:hover {color:#838383;}
+.helplink:active {color:#838383;}
+
+.legal:link{color:#000000;text-decoration:none;}
+.legal:visited{color:#004568;text-decoration:none;}
+.legal:hover {color:#838383;}
+.legal:active {color:#838383;}
+
+.legal_white:link{color:#FFFFFF;text-decoration:none;}
+.legal_white:visited{color:#FFFFFF;text-decoration:none;}
+.legal_white:hover {color:#00FFFF;}
+.legal_white:active {color:#FFFFFF;}
+
+
+li {
+	margin:0px 0px 0px -40px;
+	padding:2px 0 2px 16px;
+	line-height:11px;
+	background:url("https://web.archive.org/web/20130402232952im_/http://img0.cartoonnetworkasia.com/default_toonix/en/images/home_text_bullet.gif") no-repeat;
+	color : #000000;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+}
+
+.white_li {
+	margin:0px 0px 0px -30px;
+	padding:2px 0 2px 26px;
+	line-height:11px;
+	background:url("https://web.archive.org/web/20130402232952im_/http://img0.cartoonnetworkasia.com/default/en/images/white_text_bullet.gif") no-repeat;
+	color : #000000;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+}
+
+.bigger_li {
+	margin:0px 0px 0px -30px;
+	padding:2px 0px 2px 26px;
+	line-height:13px;
+	background:url("https://web.archive.org/web/20130402232952im_/http://img0.cartoonnetworkasia.com/default/en/images/white_text_bullet.gif") no-repeat;
+	color : #000000;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+}
+
+
+.bullet {font : bold 9px Arial, Verdana, Helvetica, sans-serif;
+	color : #000000;
+	text-decoration: none
+}
+
+.bullet_white {font : bold 9px Arial, Verdana, Helvetica, sans-serif;
+	color : #FFFFFF;
+	text-decoration: none
+}
+
+.textlinks {
+	color : #173983;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: normal;
+}
+
+.win_text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.help_title {
+	color : #FFFFFF;
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+}
+.title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #173F84;
+	text-decoration: none;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	color: #333333;
+	text-decoration: none;
+}
+.left_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #173F84;
+	text-decoration: none;
+}
+.sub_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+}
+
+.contact_txt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+}
+
+.contact_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	color: #000000;
+	text-align:center;
+}
+
+.game_title {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #DA2E44;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+#navBlock {
+	position: relative;
+	background: transparent;
+	width: 1000px;
+	margin: 0px 0px 0px 0px;
+}
+
+#menuInsideBlock {
+	position: relative;
+	background: transparent;
+	overflow: visible;
+	height:171;
+	margin: 0px 0px 0px 0px;
+}
+
+#menuBlock {
+	position: relative;
+	background: transparent;
+	overflow: visible;
+	height:194px;
+	margin: 0px 0px 0px 0px;
+}
+
+#loginBlock {
+	position: relative;
+	background: transparent;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+
+#contentBlock {
+	position: relative;
+	background: transparent;
+	width: 1000px;
+	height: auto;
+}
+
+#mainBlock {
+	position: relative;
+	width: 1050px;
+	height: auto;
+}
+
+#gamepageBlock {
+	position: relative;
+	width: 800px;
+	float: left;
+	height: auto;
+}
+
+#promoBlock {
+	position: relative;
+	float:left;
+	width: 500px;
+	background: transparent;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#adBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	width: 332px;
+	margin: 0px 0px 0px 0px;
+}
+#ad {
+	position: absolute;
+	z-index:9999;
+}
+#coolGameBlock {
+	position: relative;
+	float:left;
+	background: transparent;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#minisiteBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#minisiteBlock_long {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	width: 830px;
+	margin: 0px 0px 0px 0px;
+}
+
+#winBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#contactusBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#gameBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#gameSlot {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#gameLibrary {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#helpBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#rulesBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+
+#allshowsBlock {
+	position: relative;
+	float:left;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#anssBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#popcornBlock {
+	width: 800px;
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#tvBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+#ecardBlock {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+
+#rightBanner {
+	position: relative;
+	float:left;
+	background: #FFFFFF;
+	overflow: visible;
+	margin: 0px 0px 0px 0px;
+}
+
+
+.legal {font : bold 10px Verdana, Helvetica, sans-serif;
+	color : #000000;
+}
+.legalbottom {font-family: Arial, Helvetica, sans-serif;
+	font-size: 7px;
+	color: #000000;
+}
+.legalnormal {font : normal 10px Verdana, Helvetica, sans-serif;
+	color : #000000;
+}
+
+.legal_white {font : bold 10px Verdana, Helvetica, sans-serif;
+	color : #FFFFFF;
+}
+.legalbottom_white {font-family: Arial, Helvetica, sans-serif;
+	font-size: 7px;
+	color: #FFFFFF;
+}
+.legalnormal_white {font : normal 10px Verdana, Helvetica, sans-serif;
+	color : #FFFFFF;
+}
