@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <list>
-  <game url="" pic="ppg_all_is_swell.jpg" isnew="yes" name="The Powerpuff Girl - All is Swell!" />
-  <game url="" pic="ppg_zom_b_gone.jpg" isnew="yes" name="The Powerpuff Girl - Zom-B-Gone!" />
-  <game url="" pic="ppg_townsville_terror.jpg" isnew="yes" name="The Powerpuff Girl - Townsville Terror" />
+  <game url="https://huynhxuanhieu.github.io/cartoonnetworkvn/games/play/ppg/all_is_swell/index.html" pic="ppg_all_is_swell.jpg" isnew="yes" name="The Powerpuff Girl - All is Swell!" />
+  <game url="https://huynhxuanhieu.github.io/cartoonnetworkvn/games/play/ppg/zom_b_gone/index.html" pic="ppg_zom_b_gone.jpg" isnew="yes" name="The Powerpuff Girl - Zom-B-Gone!" />
+  <game url="https://huynhxuanhieu.github.io/cartoonnetworkvn/games/play/ppg/townsville_terror/index.html" pic="ppg_townsville_terror.jpg" isnew="yes" name="The Powerpuff Girl - Townsville Terror" />
 </list>
